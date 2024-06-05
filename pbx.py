@@ -140,12 +140,11 @@ def show_help (OOOOOOO00OO0OOO00 ):#line:177
 🤖 To See Admin Commands:
 💥 /admincmd : Shows All Admin Commands.
 
-Buy From :- @SOULCRACKS, @SOULCRACKS
-Official Channel :- t.me/SOULCRACKS'''#line:189
+Buy From :- @anmol_maan'''#line:189
     bot .reply_to (OOOOOOO00OO0OOO00 ,OO0O000000O0000O0 )#line:190
 @bot .message_handler (commands =['start'])#line:193
 def welcome_start (O0OOOO00O00O0OO00 ):#line:194
-    OOOO0O0O0O0000O0O =f"👋🏻Welcome to Your Home, {O0OOOO00O00O0OO00.from_user.first_name}! Feel Free to Explore.\n🤖Try To Run This Command : /help \n✅Join :- t.me/KNIGHTMODSSRCS"#line:195
+    OOOO0O0O0O0000O0O =f"👋🏻Welcome to Your Home, {O0OOOO00O00O0OO00.from_user.first_name}! Feel Free to Explore.\n🤖Try To Run This Command : /help \n✅Join :- t.me/PBX1_LEGENDS"#line:195
     bot .reply_to (O0OOOO00O00O0OO00 ,OOOO0O0O0O0000O0O )#line:196
 @bot .message_handler (commands =['rules'])#line:199
 def welcome_rules (O0OOOO0O0OOOO0O00 ):#line:200
